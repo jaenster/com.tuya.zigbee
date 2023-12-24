@@ -127,15 +127,16 @@ Supported devices:
 - Smart Door/Windows Sensor
     _TZ1800_ejwkn2h2 / TY0203 (Silvercrest / Lidl)
 
-- Water Detector
-    _TYZB01_sqmd19i1 / TS0207
-    _TYST11_qq9mpfhw / q9mpfhw (Neo)
-    _TZ3000_fxvjhdyl / TS0207
-    _TZ3000_eit7p838 / TS0207 (Blitzwolf)
-    _TZ3000_t6jriawg / TS0207
-    _TZ3000_85czd6fy / TS0207
-    _TZ3000_kyb656no / TS0207
-    _TZ3000_0s9gukzt / TS0207
+  - Water Detector
+      _TYZB01_sqmd19i1 / TS0207
+      _TYST11_qq9mpfhw / q9mpfhw (Neo)
+      _TZ3000_fxvjhdyl / TS0207
+      _TZ3000_eit7p838 / TS0207 (Blitzwolf)
+      _TZ3000_t6jriawg / TS0207
+      _TZ3000_85czd6fy / TS0207
+      _TZ3000_kyb656no / TS0207
+      _TZ3000_0s9gukzt / TS0207
+      _TZ3000_kstbkt6a / TS0207
 
 - Water Leak Sensor
     _TZE200_qq9mpfhw / TS0601
